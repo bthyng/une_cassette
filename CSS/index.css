@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     position: relative;
-    width: 98%;
+    width: 95%;
 }
 
 /* the star bracket is the way to say everything. By putting position: relative it will make your life easier in the future bc you wont have to remember to do this later.*/
